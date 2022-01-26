@@ -1,9 +1,8 @@
 # Cinema Tickets Demo
 
 CLI that simulates software used to sell cinema tickets and assign available seats.
-
-S = available seat
-B = occupied seat
+- S = available seat
+- B = occupied sead
 
 ## Live version
 
